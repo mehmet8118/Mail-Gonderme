@@ -10,7 +10,7 @@ from email.mime.text import MIMEText
 """
 
 
-smtp_adresi = "smtp-gmail.com"  #outlok bilgilerini girdik
+smtp_adresi = "smtp-mail.outlook.com"  #outlok bilgilerini girdik
 smtp_port = 587
 kullanici_adi = "E-Posta giriniz"
 sifre = "Sifreniz"
